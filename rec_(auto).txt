@@ -1,0 +1,51 @@
+概要
+Complete name                            : D:\Capture\rec_(auto).mp4
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom
+File size                                : 88.2 MiB
+Duration                                 : 2分 1秒
+Overall bit rate                         : 6 092 Kbps
+Writing application                      : Lavf55.34.101
+
+视频
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High 4:2:2@L3.1
+Format settings, CABAC                   : 否
+Format settings, ReFrames                : 1 frame
+Format settings, GOP                     : M=1, N=12
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 2分 1秒
+Bit rate                                 : 5 959 Kbps
+Width                                    : 1 280像素
+Height                                   : 720像素
+Display aspect ratio                     : 16:9
+Frame rate mode                          : 恒定
+Frame rate                               : 30.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:2
+Bit depth                                : 8位
+Scan type                                : 逐行扫描
+Bits/(Pixel*Frame)                       : 0.216
+Stream size                              : 86.3 MiB (98%)
+Writing library                          : x264 core 142 r2409 d6b4e63
+Encoding settings                        : cabac=0 / ref=1 / deblock=0:0:0 / analyse=0:0 / me=dia / subme=0 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=0 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=8 / lookahead_threads=8 / sliced_threads=1 / slices=8 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=0 / keyint=12 / keyint_min=1 / scenecut=0 / intra_refresh=0 / rc=crf / mbtree=0 / crf=23.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=0
+
+音频
+ID                                       : 2
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 3
+Mode                                     : Joint stereo
+Codec ID                                 : 6B
+Duration                                 : 2分 1秒
+Bit rate mode                            : CBR
+Bit rate                                 : 128 Kbps
+Channel(s)                               : 2声道
+Sampling rate                            : 44.1 KHz
+Compression mode                         : 有损压缩
+Stream size                              : 1.85 MiB (2%)
+
